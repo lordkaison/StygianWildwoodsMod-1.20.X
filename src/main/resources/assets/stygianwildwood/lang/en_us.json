@@ -1,0 +1,27 @@
+{
+  //Items
+  //Example Item Language Translation
+  //"item.stygianwildwood.alexandrite": "Alexandrite"
+  "item.stygianwildwood.stygian_crystal": "Stygian Crystal",
+
+  //Blocks
+  //Example Block Language Translation
+  //"block.stygianwildwood.alexandrite_block": "Alexandrite Block"
+  "block.stygianwildwood.stygian_crystal_block": "Stygian Crystal Block",
+  "block.stygianwildwood.stygian_sand": "Stygian Sand",
+  "block.stygianwildwood.stygian_stone": "Stygian Stone",
+  "block.stygianwildwood.cobbled_stygian_stone": "Cobbled Stygian Stone",
+  "block.stygianwildwood.polished_stygian_stone": "Polished Stygian Stone",
+  "block.stygianwildwood.stygian_stone_bricks": "Stygian Stone Bricks",
+  "block.stygianwildwood.stygian_stone_tiles": "Stygian Stone Tiles",
+  "block.stygianwildwood.cracked_stygian_stone_bricks": "Cracked Stygian Stone Bricks",
+  "block.stygianwildwood.cracked_stygian_stone_tiles": "Cracked Stygian Stone Tiles",
+  "block.stygianwildwood.smooth_stygian_stone_bricks": "Smooth Stygian Stone Bricks",
+
+  //Glass
+  "block.stygianwildwood.stygian_glass": "Stygian Glass",
+
+
+
+  "creativetab.stygian_wildwood_tab": "Stygian Wildwood Tab"
+}

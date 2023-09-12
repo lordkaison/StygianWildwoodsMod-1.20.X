@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "stygian_crystal",
+  "ingredient": {
+    "item": "stygianwildwood:stygian_sand"
+  },
+  "result": "stygianwildwood:stygian_glass"
+}
